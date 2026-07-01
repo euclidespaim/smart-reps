@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cyberkidstudios.smartreps.wear-mergeDebugResources-74:/values-fil/values-fil.xml",
+            "map": [
+                {
+                    "source": "/home/paim/.gradle/caches/9.4.1/transforms/25dfdaceec856693eeaa5d24d7272213/transformed/horologist-compose-material-0.7.15/res/values-fil/values-fil.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,229,313,398,482,564,646",
+                        "endColumns": "87,85,83,84,83,81,81,79",
+                        "endOffsets": "138,224,308,393,477,559,641,721"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+com.cyberkidstudios.smartreps.mobile-res-0 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/generated/res/injectCrashlyticsMappingFileIdDebug
+com.cyberkidstudios.smartreps.mobile-pngs-1 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/generated/res/pngs/debug
+com.cyberkidstudios.smartreps.mobile-res-2 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/generated/res/processDebugGoogleServices
+com.cyberkidstudios.smartreps.mobile-updated_navigation_xml-3 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/generated/updated_navigation_xml/debug
+com.cyberkidstudios.smartreps.mobile-packageDebugResources-4 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.cyberkidstudios.smartreps.mobile-packageDebugResources-5 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.cyberkidstudios.smartreps.mobile-debug-6 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/build/intermediates/merged_res/debug/mergeDebugResources
+com.cyberkidstudios.smartreps.mobile-debug-7 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/src/debug/res
+com.cyberkidstudios.smartreps.mobile-main-8 /home/paim/Projects/CyberKid-Studios/smart-reps/mobile/src/main/res
+gradleHome-0 /home/paim/.gradle

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057417789722",
+    "project_id": "smart-reps-36a8d",
+    "storage_bucket": "smart-reps-36a8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057417789722:android:b22f12d29730f97a046ca3",
+        "android_client_info": {
+          "package_name": "com.cyberkidstudios.smartreps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxtgwRo6NKu7mKJsRg1vlJBP1qDZeoyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

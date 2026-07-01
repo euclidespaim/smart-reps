@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.cyberkidstudios.smartreps.ui.screens.workout.WorkoutViewModel

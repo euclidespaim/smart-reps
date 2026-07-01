@@ -1,0 +1,9 @@
+com.cyberkidstudios.smartreps.core-pngs-0 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/generated/res/pngs/debug
+com.cyberkidstudios.smartreps.core-updated_navigation_xml-1 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/generated/updated_navigation_xml/debug
+com.cyberkidstudios.smartreps.core-mergeDebugResources-2 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.cyberkidstudios.smartreps.core-mergeDebugResources-3 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.cyberkidstudios.smartreps.core-debug-4 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/intermediates/merged_res/debug/mergeDebugResources
+com.cyberkidstudios.smartreps.core-debug-5 /home/paim/Projects/CyberKid-Studios/smart-reps/core/build/intermediates/packaged_res/debug/packageDebugResources
+com.cyberkidstudios.smartreps.core-debug-6 /home/paim/Projects/CyberKid-Studios/smart-reps/core/src/debug/res
+com.cyberkidstudios.smartreps.core-main-7 /home/paim/Projects/CyberKid-Studios/smart-reps/core/src/main/res
+gradleHome-0 /home/paim/.gradle

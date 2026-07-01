@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cyberkidstudios.smartreps.wear-mergeDebugResources-74:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/paim/.gradle/caches/9.4.1/transforms/cf285c35ba383b5fb9b15771e8ad923c/transformed/core-splashscreen-1.2.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        }
+    ]
+}

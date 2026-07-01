@@ -1,0 +1,2 @@
+com.cyberkidstudios.smartreps.core
+raw exercises_seed
